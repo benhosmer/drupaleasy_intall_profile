@@ -34,5 +34,6 @@ dependencies[] = pathauto
 dependencies[] = token
 dependencies[] = views
 dependencies[] = views_ui
+dependencies[] = devel_themer
 
 files[] = drupaleasy.profile
